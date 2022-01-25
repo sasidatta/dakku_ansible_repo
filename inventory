@@ -3,5 +3,6 @@
 
 [servers:vars]
 ansible_connection=ssh
-ansible_user=username
+ansible_port=22
+ansible_user=user
 ansible_ssh_pass=password
