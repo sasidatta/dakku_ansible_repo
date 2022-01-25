@@ -2,4 +2,6 @@
 104.198.75.213
 
 [servers:vars]
-ansible
+ansible_connection=ssh
+ansible_user=username
+ansible_ssh_pass=password
