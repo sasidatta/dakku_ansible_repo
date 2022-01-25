@@ -1,4 +1,5 @@
 [servers]
-172.30.0.127
+104.198.75.213
 
 [servers:vars]
+ansible
